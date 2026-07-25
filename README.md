@@ -1,17 +1,19 @@
-<h1 align="center">Hi, I'm Iván 👋</h1>
-<h3 align="center">Software Developer · Applied AI & Automation</h3>
+<p align="center">🇪🇸 <b>Español</b> · <a href="README.en.md">🇬🇧 English</a></p>
+
+<h1 align="center">Hola, soy Iván 👋</h1>
+<h3 align="center">Desarrollador de Software · IA aplicada y Automatización</h3>
 
 <p align="center">
-  I build and ship real products: a Chrome extension with its own backend and payment gateway live on the
-  Chrome Web Store, a mobile app in TypeScript and React Native, an AI voice assistant, and bots running
-  in production with real users.
+  Construyo y publico productos reales: una extensión de Chrome con backend propio y pasarela de pagos
+  disponible en la Chrome Web Store, una aplicación móvil en TypeScript y React Native, un asistente de
+  voz con IA y bots en producción con usuarios reales.
   <br>
-  Currently studying for the IFCD0210 Professional Certificate in Web Application Development.
+  Actualmente curso el Certificado de Profesionalidad IFCD0210 en Desarrollo de Aplicaciones con Tecnologías Web.
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tecnologías
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
@@ -29,35 +31,35 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Proyectos destacados
 
-**[ProWrite AI — AI writing assistant (Chrome extension + API)](https://chromewebstore.google.com/detail/prowrite-ai/pmaagpadpmhpdoanipclgcmdcmhobaca)**
-Full-stack product built end to end: a FastAPI backend and a Manifest V3 Chrome extension that improves any text on the web with AI. Gemini with a three-model fallback chain, Stripe subscriptions and webhooks, per-user daily limits in PostgreSQL and a 12-language interface. Published on the Chrome Web Store with a 5.0★ rating.
+**[ProWrite AI — Asistente de escritura con IA (extensión Chrome + API)](https://chromewebstore.google.com/detail/prowrite-ai/pmaagpadpmhpdoanipclgcmdcmhobaca)**
+Producto full-stack construido de principio a fin: backend en FastAPI y extensión de Chrome (Manifest V3) que mejora cualquier texto de la web con IA. Gemini con cadena de respaldo entre tres modelos, suscripciones y webhooks de Stripe, límites de uso diario por usuario en PostgreSQL e interfaz en 12 idiomas. Publicada en la Chrome Web Store con valoración de 5,0★.
 `Python` · `FastAPI` · `Gemini AI` · `PostgreSQL` · `Stripe` · `Chrome MV3`
-→ [Backend repo](https://github.com/PorrisV99/prowrite) · [Extension repo](https://github.com/PorrisV99/prowrite-extension)
+→ [Repo del backend](https://github.com/PorrisV99/prowrite) · [Repo de la extensión](https://github.com/PorrisV99/prowrite-extension)
 
-**Ascend Fitness — Gamified fitness mobile app (Android/iOS)** — *private repository*
-Mobile app with 40+ screens: workout logging, nutrition tracking, per-exercise progress and charts, plus a full social layer with guilds, real-time chat, direct messages, leaderboards, ranks and achievements. Supabase auth and database, breached-password checking via k-anonymity, unit tests in Jest and production error monitoring with Sentry. Currently in testing on Google Play.
+**Ascend Fitness — App móvil de entrenamiento gamificada (Android/iOS)** — *repositorio privado*
+App móvil de más de 40 pantallas: registro de entrenamientos, seguimiento de nutrición, progreso por ejercicio y estadísticas con gráficos, además de una capa social completa con gremios, chat en tiempo real, mensajes directos, clasificaciones, rangos y logros. Autenticación y base de datos sobre Supabase, comprobación de contraseñas filtradas mediante k-anonimato, tests unitarios con Jest y monitorización de errores en producción con Sentry. Actualmente en fase de pruebas en Google Play.
 `TypeScript` · `React Native` · `Expo` · `Supabase` · `Jest` · `Sentry`
 
-**[Jarvis — Personal AI voice assistant](https://github.com/PorrisV99/Jarvis-Voice-Assistant-powered-by-AI)**
-Voice assistant for Windows chaining real-time transcription (Groq Whisper), reasoning with Llama 4 via Groq and streaming speech synthesis (ElevenLabs). Function calling to open applications and control the system, offline wake-word detection, voice barge-in, persistent memory across sessions and a live HUD over Server-Sent Events.
+**[Jarvis — Asistente de voz personal con IA](https://github.com/PorrisV99/Jarvis-Voice-Assistant-powered-by-AI)**
+Asistente de voz para Windows que encadena transcripción en tiempo real (Groq Whisper), razonamiento con Llama 4 vía Groq y síntesis de voz por streaming (ElevenLabs). Function calling para abrir aplicaciones y controlar el sistema, detección de palabra de activación en local y sin conexión, interrupción por voz, memoria persistente entre sesiones y HUD en tiempo real por Server-Sent Events.
 `Python` · `Groq` · `ElevenLabs` · `openWakeWord` · `Win32 API` · `Tkinter`
 
-**[KAMASTRO — Discord bot for League of Legends communities](https://github.com/PorrisV99/BOT-DISCORD)**
-14 slash commands for a real Discord community: a 55-level, 10-prestige progression system backed by PostgreSQL with transactions and automatic role assignment, live Riot Games API statistics, and dynamically generated leaderboards and profile cards with Pillow.
+**[KAMASTRO — Bot de Discord para comunidades de League of Legends](https://github.com/PorrisV99/BOT-DISCORD)**
+14 comandos slash para una comunidad real de Discord: sistema de progresión de 55 niveles y 10 prestigios persistido en PostgreSQL con transacciones y asignación automática de roles, estadísticas en vivo de la API de Riot Games, y clasificaciones y tarjetas de perfil generadas dinámicamente con Pillow.
 `Python` · `discord.py` · `asyncpg` · `Pillow` · `Riot API` · `Railway`
 
-**[CriptosBrosBot — Telegram cryptocurrency bot](https://github.com/PorrisV99/BOT-CRIPTO)** · [Try it on Telegram](https://t.me/CriptossBotssBot)
-28-command bot deployed 24/7: real-time prices, portfolio with profit and loss, price alerts, Matplotlib charts and RSS news. Bilingual ES/EN with automatic language detection and per-user timezones.
+**[CriptosBrosBot — Bot de Telegram de criptomonedas](https://github.com/PorrisV99/BOT-CRIPTO)** · [Pruébalo en Telegram](https://t.me/CriptossBotssBot)
+Bot de 28 comandos desplegado 24/7: precios en tiempo real, cartera con pérdidas y ganancias, alertas de precio, gráficos con Matplotlib y noticias por RSS. Bilingüe ES/EN con detección automática de idioma y zona horaria configurable por usuario.
 `Python` · `python-telegram-bot` · `Matplotlib` · `SQLite` · `CoinGecko API` · `Railway`
 
 ---
 
-### 📫 Get in touch
+### 📫 Contacto
 
 - 📧 **Email:** ivanreichle@gmail.com
 - 💼 **LinkedIn:** [Iván Reichle Céspedes](https://www.linkedin.com/in/ivan-reichle-cespedes/)
 - 🛒 **Fiverr:** [es.fiverr.com/ivanreichle](https://es.fiverr.com/ivanreichle)
 
-<p align="center"><i>Open to work — feel free to reach out!</i></p>
+<p align="center"><i>Disponible para trabajar — ¡escríbeme!</i></p>
