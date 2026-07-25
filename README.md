@@ -60,6 +60,5 @@ Bot de 28 comandos desplegado 24/7: precios en tiempo real, cartera con pérdida
 
 - 📧 **Email:** ivanreichle@gmail.com
 - 💼 **LinkedIn:** [Iván Reichle Céspedes](https://www.linkedin.com/in/ivan-reichle-cespedes/)
-- 🛒 **Fiverr:** [es.fiverr.com/ivanreichle](https://es.fiverr.com/ivanreichle)
 
 <p align="center"><i>Disponible para trabajar — ¡escríbeme!</i></p>

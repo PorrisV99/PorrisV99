@@ -60,6 +60,5 @@ Voice assistant for Windows chaining real-time transcription (Groq Whisper), rea
 
 - 📧 **Email:** ivanreichle@gmail.com
 - 💼 **LinkedIn:** [Iván Reichle Céspedes](https://www.linkedin.com/in/ivan-reichle-cespedes/)
-- 🛒 **Fiverr:** [es.fiverr.com/ivanreichle](https://es.fiverr.com/ivanreichle)
 
 <p align="center"><i>Open to work — feel free to reach out!</i></p>
