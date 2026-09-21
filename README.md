@@ -1,7 +1,7 @@
 <p align="center">🇪🇸 <b>Español</b> · <a href="README.en.md">🇬🇧 English</a></p>
 
 <h1 align="center">Hola, soy Iván 👋</h1>
-<h3 align="center">Desarrollador de Software · IA aplicada y Automatización</h3>
+<h3 align="center">Desarrollador de Software y Automatización</h3>
 
 <p align="center">
   Construyo y publico productos reales: una extensión de Chrome con backend propio y pasarela de pagos
